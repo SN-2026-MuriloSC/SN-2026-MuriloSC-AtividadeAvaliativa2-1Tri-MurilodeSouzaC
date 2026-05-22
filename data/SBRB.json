@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-22T11:39:16.138652+00:00",
+  "updated_at": "2026-05-22T14:21:40.034558+00:00",
   "data_referencia": "2026-05-22",
   "airport_icao": "SBRB",
   "airport_name": "Rio Branco",
   "airport_info": {
-    "sg_aerodromo_icao": "SBUL",
-    "sg_aerodromo_iata": "UDI",
-    "descricao": "TEN CEL AVIADOR CÉSAR BOMBONATO - UBERLÂNDIA - MG - BRASIL"
+    "sg_aerodromo_icao": "SBRB",
+    "sg_aerodromo_iata": "RBR",
+    "descricao": "PLÁCIDO DE CASTRO - RIO BRANCO - AC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
