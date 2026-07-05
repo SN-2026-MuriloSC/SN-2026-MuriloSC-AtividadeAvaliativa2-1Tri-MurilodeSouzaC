@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-05T13:11:26.652857+00:00",
+  "updated_at": "2026-07-05T16:01:06.947766+00:00",
   "data_referencia": "2026-07-05",
   "airport_icao": "SBPS",
   "airport_name": "Porto Seguro",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPS",
-    "sg_aerodromo_iata": "BPS",
-    "descricao": "PORTO SEGURO - PORTO SEGURO - BA - BRASIL"
+    "sg_aerodromo_icao": "SBMG",
+    "sg_aerodromo_iata": "MGF",
+    "descricao": "SÍLVIO NAME JÚNIOR - MARINGÁ - PR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
